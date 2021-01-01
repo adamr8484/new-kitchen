@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Landing Page v5.0.9 (https://startbootstrap.com/theme/landing-page)
- * Copyright 2013-2020 Start Bootstrap
+ * Copyright 2013-2021 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
@@ -64,6 +64,22 @@ header.masthead h1 {
   .showcase .showcase-text {
     padding: 7rem;
   }
+}
+
+.show {
+  background-image: url("../img/adam.jpg");
+}
+
+.show-1 {
+  background-image: url("../img/kitchen-cabinet-repainting.jpg");
+}
+
+.show-2 {
+  background-image: url("../img/colours-selection.jpg");
+}
+
+.show-3 {
+  background-image: url("../img/kitchen-cabinet-painting-cost.jpg");
 }
 
 .features-icons {
