@@ -11,3 +11,18 @@ h6 {
   @include body-font;
   font-weight: 700;
 }
+
+.logo {
+  color:#007bff;
+  font-size: 20px;
+}
+
+.call-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background: black;
+  opacity: 0.3;
+}
